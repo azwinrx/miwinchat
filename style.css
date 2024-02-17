@@ -196,11 +196,11 @@ body {
     }
 
     .imgMobile img {
-        width: 349px;
+        width: 347px;
         position: absolute;
         left: 0;
         right: 0;
-        margin: -20px 0 0 0;
+        margin: -20px 0 0 ;
 
     }
 

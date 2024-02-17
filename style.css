@@ -192,15 +192,15 @@ body {
         /* width: 100%; */
         display: block;
         margin-left: 90px;
-        border: 1px solid;
 
     }
 
     .imgMobile img {
-        width: 355px;
+        width: 349px;
         position: absolute;
         left: 0;
-        margin: -20px 0 0 10px;
+        right: 0;
+        margin: -20px 0 0 0;
 
     }
 
@@ -209,9 +209,10 @@ body {
     }
 
     .signUp {
-        width: 100%;
+        width: 90%;
         margin-top: 250px;
         text-align: left;
+        margin-left:  auto;
     }
 
     .list {

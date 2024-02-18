@@ -14,12 +14,18 @@ body {
     color: hsl(235, 18%, 26%);
 }
 
+.button , .btnSignIn { 
+    cursor: pointer;
+}
 
 
 /* web */
 
 .signIn {
-    width: 40%;
+    width: 35%;
+    padding: 40px;
+    box-sizing: border-box;
+    border-radius: 10px;
     margin: 50px auto;
     background-color: white;
     display: flex;
@@ -195,6 +201,12 @@ body {
     font-family: "roboto-bold";
     background-color: hsl(4, 100%, 67%);
     background-image: linear-gradient(to right, rgba(252, 65, 105, 0.956),rgb(255, 148, 71));    
+}
+
+.message a {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
 }
 
 
